@@ -1,0 +1,128 @@
+@-moz-document regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?."), regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?/((\\?|webhp|search|gfe_rd|auth|gws_rd|#q|imghp|#gfe_rd|#safe|#pws|#tbs|#gws|#tbm).*)"), regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?/((\\?|webhp|search|gfe_rd|auth|gws_rd|#q|imghp|#gfe_rd|#safe|#pws|#tbs|#gws|#tbm).*)"), regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?.") {
+    body a#logo {
+        background: url(https://drpleaserespect.github.io/Image%20Files/Logo.png) no-repeat!important;
+        background-size: 100px 100px!important;
+        height: 100px!important;
+        width: 100px!important;
+        margin-top: -17px!important;
+    }
+    a#logo > img {
+        display: none!important;
+    }
+    
+    .F1hUFe.jbTlie > svg {
+        display: none!important;
+    }
+    .F1hUFe.jbTlie {
+        background: url(https://drpleaserespect.github.io/Image%20Files/Logo.png) no-repeat!important;
+        background-size: 100px 100px!important;
+        height: 100px!important;
+        width: 100px!important;
+        margin-top: -17px!important;
+        margin-left: 30px!important;
+    }
+    div#lga {
+        transition: unset;
+        width: auto;
+    }
+    
+    html > body#gsr.vasq.srp > div#viewport.ctr-p > div#main.content > div#cnt.big > div.mw > div#rcnt > div.col > div#center_col {
+        background: rgba(237, 237, 248, 0.9) !important;
+        padding: 10px !important;
+    }
+    
+    ._OKe {
+        background: rgba(237, 237, 248, 0.7) !important;
+    }
+    
+    html > body#gsr.srp.tbo.vasq > div#main > div#cnt.big > div.mw > div#rcnt > div.col > div#center_col > div#res.med > div#search > div > div#ires > div#rso > div._NId > div.g.mnr-c.g-blk > div.kp-blk._kTi._Rqb._RJe > div#uid_0.r-ipzMKl8jpLfE.xpdbox.xpdclose.xpdns > div._OKe > div > div._Gtj.mod > div._Ixf > div.kno-fb-ctx > div > a.rl_item._Zxn > div._Vjf._Kjf._qkf._Wdh {
+        background: rgba(237, 237, 248, 0.7) !important;
+    }
+    
+    #sb_ifc0 {
+        background: rgba(0, 0, 0, .5) !important;
+        color: #333 !important;
+    }
+    
+    a:link,
+    .w,
+    #prs a:visited,
+    #prs a:active,
+    .q:active,
+    .q:visited,
+    .kl:active,
+    .tbotu {
+        color: #07f !important;
+        ;
+    }
+    
+    .a,
+    cite,
+    cite a:link,
+    cite a:visited,
+    .cite,
+    .cite:link,
+    #_bGc > i,
+    .bc a:link {
+        color: #82ffe1 !important;
+        ;
+        font-style: normal;
+    }
+    
+    ._OKe > div > div._Gtj.mod > div._Ixf > div.kno-fb-ctx > div > a.rl_item._Zxn._pkf > div._Vjf._Kjf._qkf._Wdh {
+        background: rgba(6, 6, 6, .7) !important;
+    }
+    
+    ._OKe > div > div._Gtj.mod > div._Ixf > div.kno-fb-ctx > div > a.rl_item._Zxn > div._Vjf._Kjf._qkf._Wdh {
+        background: rgba(0, 0, 0, .7) !important;
+    }
+    
+    #center_col > div#res.med > div#search > div > div#ires > div#rso > div._NId > div.srg > div.g > div.rc > div.s > div > span.st > em {
+        color: #000 !important;
+    }
+    
+    div#hplogo {
+        background: url(https://drpleaserespect.github.io/Image%20Files/Logo.png) no-repeat!important;
+        background-size: 272px 92px!important;
+        height: 92px!important;
+        width: 272px!important;
+    }
+    
+    div#hplogo:not([title~=Google]) {
+        margin-top: 50px!important;
+    }
+    
+    div#hplogo > :not([nowrap='']) {
+        display: none!important;
+    }
+    
+    img#hplogo {
+        background: url(https://drpleaserespect.github.io/Image%20Files/Logo.png) no-repeat!important;
+        background-size: 200px 200px!important;
+        height: 200px!important;
+        position: relative;
+        bottom: 50px;
+        left: 30px;
+        width: 200px!important;
+        padding: 272px 272px 0 0;
+        box-sizing: border-box;
+    }
+    
+    img#hplogo:not([title~=Google]) {
+        margin-top: 50px!important;
+    }
+    
+    img#hplogo > :not([nowrap='']) {
+        display: none!important;
+    }
+    
+    .logocont > h1 > a#logo > img {
+        display: none !important;
+    }
+    
+    .logocont #logocont {
+        width: 140px !important;
+        height: 53px !important;
+        background: url(https://drpleaserespect.github.io/Image%20Files/Logo.png) 5px 5px no-repeat;
+    }
+    }
