@@ -7,4 +7,4 @@ If the code is trash. I'm sorry for that..
 
 # **NOTE**
 Gets Broken when Google Doodles Happen
-If you want to I'm Prove this you can just fork this repo
+If you want to Improve this you can just fork this repo
